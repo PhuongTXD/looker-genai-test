@@ -1,5 +1,5 @@
-application: explore_assistant {
-  label: "Explore Assistant"
+application: explore_assistant2 {
+  label: "Explore Assistant 2"
   # url: "https://localhost:8080/bundle.js"
   file: "bundle.js"
   entitlements: {
